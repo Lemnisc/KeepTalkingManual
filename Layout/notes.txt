@@ -1,0 +1,4 @@
+The serial number is relevant for:
+	Simple wires
+	Stars and leds
+	Simon says
