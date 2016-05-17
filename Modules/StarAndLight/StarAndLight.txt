@@ -1,0 +1,16 @@
+Star and light:
+
+Always CUT:
+	Nothing, Star, Red+Star
+
+
+If EVEN, CUT:
+	Red, Blue, Red+Blue, Red+Blue+Light
+
+
+If PARALLEL, CUT:
+	Blue+Light, Blue+Star+Light, Blue+Red+Star
+
+
+If 2+ Batt, CUT:
+	Red+Light, Red+Light+Star, Light+Star
