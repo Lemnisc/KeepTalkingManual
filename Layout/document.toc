@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Simple wires}{2}
+\contentsline {section}{\numberline {2}Calculator/Who's on first}{4}
+\contentsline {section}{\numberline {3}Memory}{5}
+\contentsline {section}{\numberline {4}Morse}{5}
+\contentsline {section}{\numberline {5}Panel wires}{5}
+\contentsline {section}{\numberline {6}Maze}{5}
+\contentsline {section}{\numberline {7}Password}{6}
+\contentsline {section}{\numberline {8}Knobs}{7}

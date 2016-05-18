@@ -1,0 +1,51 @@
+digraph G {
+
+
+"mirror" -> "ta"
+"ta" -> "lambda"
+"lambda" -> "squigglyN"
+"squigglyN" -> "squidknife"
+"squidknife" -> "hookn"
+"hookn" -> "cleft"
+"cleft"
+
+"euro" -> "mirror"
+"mirror" -> "cleft"
+"cleft" -> "q"
+"q" -> "hollowstar"
+"hollowstar" -> "hookn"
+"hookn" -> "questionmark"
+"questionmark"
+
+"copyright" -> "butt"
+"butt" -> "q"
+"q" -> "doublek"
+"doublek" -> "R"
+"R" -> "lambda"
+"lambda" -> "hollowstar"
+"hollowstar"
+
+"6" -> "paragraph"
+"paragraph" -> "tb"
+"tb" -> "squidknife"
+"squidknife" -> "doublek"
+"doublek" -> "questionmark"
+"questionmark" -> "smile"
+"smile"
+
+"psi" -> "smile"
+"smile" -> "tb"
+"tb" -> "cright"
+"cright" -> "paragraph"
+"paragraph" -> "dragon"
+"dragon" -> "fullstar"
+"fullstar"
+
+"6" -> "euro"
+"euro" -> "tracks"
+"tracks" -> "ae"
+"ae" -> "psi"
+"psi" -> "nhat"
+"nhat" -> "omega"
+"omega"
+}

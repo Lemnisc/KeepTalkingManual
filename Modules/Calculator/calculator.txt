@@ -1,0 +1,57 @@
+\hline \rule[-2ex]{0pt}{5.5ex} 				&←	&↓ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} BLANK		&→	&- \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} C			&→	&↑ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} CEE			&→	&↓ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} DISPLAY		&→	&↓ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} FIRST		&→	&↑ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} HOLD ON		&→	&↓ \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} LEAD			&→	&↓ \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} LEAD			&←	&- \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} LEED			&←	&↓ \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} NO			&→	&↓ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} NOTHING		&←	&- \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} OKAY			&→	&↑ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} READ			&→	&- \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} READ			&→	&- \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} REED			&←	&↓ \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} SAYS			&→	&↓ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} SEE			&→	&↓ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} THEIR		&→	&- \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} THERE		&→	&↓ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} THEY ARE		&←	&- \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} THEY'RE		&←	&↓ \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} UR			&←	&↑ \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} YES			&←	&- \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} YOU			&→	&- \\ 
+\hline \rule[-2ex]{0pt}{5.5ex} YOU ARE		&→	&↓ \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} YOU'RE		&→	&- \\	 
+\hline \rule[-2ex]{0pt}{5.5ex} YOUR			&→	&- \\	
+
+BLANK	wait, right, okay, middle, blank, press, ready, nothing, no, what, left, uhhh, yes, first 
+DONE	sure, uh huh, next, what?, your, ur, you're, hold, like, you, u, you are, uh uh, done 
+FIRST	left, okay, yes, middle, no, right, nothing, uhhh, wait, ready, blank, what, press, first 
+HOLD	you are, u, done, uh uh, you, ur, sure, what?, you're, next, hold, uh huh, your, like 
+LEFT	right, left, first, no, middle, yes, blank, what, uhhh, wait, press, ready, okay, nothing 
+LIKE	you're, next, u, ur, hold, done, uh uh, what?, uh huh, you, like, sure, you are, your 
+MIDDLE	blank, ready, okay, what, nothing, press, no, wait, left, middle, right, first, uhhh, yes 
+NEXT	what?, uh huh, uh uh, your, hold, sure, next, like, done, you are, ur, you're, u, you 
+NO		blank, uhhh, wait, first, what, ready, right, yes, nothing, left, press, okay, no, middle 
+NOTHING	uhhh, right, okay, middle, yes, blank, no, press, left, what, wait, first, nothing, ready 
+OKAY	middle, no, first, yes, uhhh, nothing, wait, okay, left, ready, blank, press, what, right 
+PRESS	right, middle, yes, ready, press, okay, nothing, uhhh, blank, left, first, what, no, wait 
+READY	yes, okay, what, middle, left, press, right, blank, ready, no, first, uhhh, nothing, wait 
+RIGHT	yes, nothing, ready, press, no, wait, what, right, middle, left, uhhh, blank, okay, first 
+SURE	you are, done, like, you're, you, hold, uh huh, ur, sure, u, what?, next, your, uh uh 
+U		uh huh, sure, next, what?, you're, ur, uh uh, done, u, you, like, hold, you are, your 
+UH HUH	uh huh, your, you are, you, done, hold, uh uh, next, sure, like, you're, ur, u, what? 
+UH UH	ur, u, you are, you're, next, uh uh, done, you, uh huh, like, your, sure, hold, what? 
+UHHH	ready, nothing, left, what, okay, yes, right, no, press, blank, uhhh, middle, wait, first 
+UR		done, u, ur, uh huh, what?, sure, your, hold, you're, like, next, uh uh, you are, you 
+WAIT	uhhh, no, blank, okay, yes, left, first, press, what, wait, nothing, ready, right, middle 
+WHAT	uhhh, what, left, nothing, ready, blank, middle, no, okay, first, wait, yes, press, right 
+WHAT?	you, hold, you're, your, u, done, uh uh, like, you are, uh huh, ur, next, what?, sure 
+YES		okay, right, uhhh, middle, first, what, press, ready, nothing, yes, left, blank, no, wait 
+YOU ARE	your, next, like, uh huh, what?, done, uh uh, hold, you, u, you're, sure, ur, you are 
+YOU		sure, you are, your, you're, next, uh huh, ur, hold, what?, you, uh uh, like, done, u 
+YOU'RE	you, you're, ur, next, uh uh, you are, u, your, what?, uh huh, sure, done, like, hold 
+YOUR	uh uh, you are, uh huh, your, next, ur, sure, u, you're, you, what?, hold, like, done
