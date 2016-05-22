@@ -22,3 +22,23 @@ E         T
 I   A     N   M
 S U R W   D K G O
 HVF L PJ  BXCYZQ  
+
+\begin{tabular}{|l|l|}
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{beats}  & \texttt{3.600 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{bistro} & \texttt{3.552 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{bombs}  & \texttt{3.565 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{boxes}  & \texttt{3.535 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{break}  & \texttt{3.572 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{brick}  & \texttt{3.575 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{flick}  & \texttt{3.555 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{halls}  & \texttt{3.515 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{leaks}  & \texttt{3.542 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{shell}  & \texttt{3.505 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{slick}  & \texttt{3.522 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{steak}  & \texttt{3.582 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{sting}  & \texttt{3.592 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{strobe} & \texttt{3.545 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{trick}  & \texttt{3.532 MHz} \\
+\hline \rule[-1ex]{0pt}{3.5ex} \texttt{vector} & \texttt{3.595 MHz} \\
+\hline
+\end{tabular}

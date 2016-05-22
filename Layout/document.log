@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.23)  18 MAY 2016 21:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.23)  22 MAY 2016 13:05
 entering extended mode
 **document.tex
 (document.tex
@@ -204,45 +204,44 @@ Overfull \hbox (77.55957pt too wide) in paragraph at lines 24--87
 Overfull \vbox (35.38347pt too high) has occurred while \output is active []
 
 
-[4] [5
-
-]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 97.
+[4]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 92.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
+) [5
+
+]
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
-(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 97.
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 116.
 
 Overfull \vbox (1.25487pt too high) has occurred while \output is active []
 
 
-[6] <../Modules/SimpleWires/Knobs.png, id=27, 243.91125pt x 378.41376pt>
-File: ../Modules/SimpleWires/Knobs.png Graphic file (type png)
+[6] <../Modules/Knobs/Knobs.png, id=27, 243.91125pt x 378.41376pt>
+File: ../Modules/Knobs/Knobs.png Graphic file (type png)
 
-<use ../Modules/SimpleWires/Knobs.png>
-Package pdftex.def Info: ../Modules/SimpleWires/Knobs.png used on input line 14
-1.
+<use ../Modules/Knobs/Knobs.png>
+Package pdftex.def Info: ../Modules/Knobs/Knobs.png used on input line 160.
 (pdftex.def)             Requested size: 143.47093pt x 222.58722pt.
- [7 <../Modules/SimpleWires/Knobs.png>]
-(document.aux) ) 
+ [7 <../Modules/Knobs/Knobs.png>] (document.aux) ) 
 Here is how much of TeX's memory you used:
  1676 strings out of 493673
- 23114 string characters out of 3141506
+ 23084 string characters out of 3141506
  99327 words of memory out of 3000000
  5035 multiletter control sequences out of 15000+200000
  8618 words of font info for 31 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,7n,19p,259b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.
-enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pf
-b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on document.pdf (7 pages, 107861 bytes).
+ 27i,7n,19p,240b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTe
+X 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/co
+urier/ucrb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucr
+r8a.pfb>
+Output written on document.pdf (7 pages, 111419 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
